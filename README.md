@@ -17,9 +17,12 @@ Esse é um projeto desenvolvido durante a Imersão Front-End da Alura, com o obj
 #### <i>22/01/2024</i>
 - Navegação lateral com os links "Início" e "Buscar".
 
+#### <i>23/01/2024</i>
+- Campo "Sua biblioteca".
+
 ## Próximos passos
 
-- Implementar as demais funcionalidades do site.
+- Implementar a parte do footer na página.
 
 ## Contato
 
