@@ -20,9 +20,12 @@ Esse é um projeto desenvolvido durante a Imersão Front-End da Alura, com o obj
 #### <i>23/01/2024</i>
 - Campo "Sua biblioteca".
 
+### <i>24/01/2024</i>
+- Barra de pesquisa e footer.
+
 ## Próximos passos
 
-- Implementar a parte do footer na página.
+- Scroll de conteúdo.
 
 ## Contato
 
