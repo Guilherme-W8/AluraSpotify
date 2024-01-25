@@ -23,7 +23,7 @@ Esse é um projeto desenvolvido durante a Imersão Front-End da Alura, com o obj
 ### <i>24/01/2024</i>
 - Barra de pesquisa e footer.
 
-## Próximos passos
+### Próximos passos
 
 - Scroll de conteúdo.
 
