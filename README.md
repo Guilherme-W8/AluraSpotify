@@ -23,9 +23,8 @@ Esse é um projeto desenvolvido durante a Imersão Front-End da Alura, com o obj
 #### <i>24/01/2024</i>
 - Barra de pesquisa e footer.
 
-### Próximos passos
-
-- Scroll de conteúdo.
+#### <i>26/01/2024</i>
+- FAKE API e Busca de artistas
 
 ## Contato
 
